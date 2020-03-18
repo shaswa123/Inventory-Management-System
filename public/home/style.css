@@ -1,0 +1,19 @@
+body {
+	height: 790px;
+}
+.navBar {
+	width: 5%;
+	background-color: black !important;
+	height: 100%;
+}
+.navBar a {
+	color: white;
+}
+.navbar-nav li a {
+	color: white;
+}
+.loginContainer {
+	width: 45%;
+	height: 450px;
+	margin: auto;
+}

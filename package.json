@@ -1,0 +1,20 @@
+{
+	"name": "invsystem",
+	"version": "1.0.0",
+	"description": "This is an open source software for a prolific inventory management system developed using Node.js, MongoDB and express.",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon app.js",
+		"start-server": "node app.js"
+	},
+	"author": "Shaswat Patel",
+	"license": "MIT",
+	"devDependencies": {
+		"nodemon": "^2.0.2"
+	},
+	"dependencies": {
+		"ejs": "^3.0.1",
+		"express": "^4.17.1"
+	}
+}
